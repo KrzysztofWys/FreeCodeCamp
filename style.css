@@ -38,8 +38,9 @@ section{
     margin-right: auto;    
 }
 
-#mainphoto {
+#image {
     max-width: 100%;
+    display: block;
 }
 
 
